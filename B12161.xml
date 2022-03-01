@@ -1,0 +1,463 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The thankefull Samaritane In a sermon at S. Peters in Exeter, the sixth of August, Anno 1617. Being the day of the deliuerance of that citie from the rebels, in the dayes of King Edward the Sixth. At which time the Assises was also there holden. By Iohn Comyns Master of Arts of Exeter Colledge in Oxford, and minister of Gods word at Crediton in Devon.</title>
+            <author>Comyns, John, b. 1587 or 8.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1617</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12161</idno>
+            <idno type="STC">STC 5614</idno>
+            <idno type="STC">ESTC S114489</idno>
+            <idno type="EEBO-CITATION">99849714</idno>
+            <idno type="PROQUEST">99849714</idno>
+            <idno type="VID">177891</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12161)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177891)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1268:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The thankefull Samaritane In a sermon at S. Peters in Exeter, the sixth of August, Anno 1617. Being the day of the deliuerance of that citie from the rebels, in the dayes of King Edward the Sixth. At which time the Assises was also there holden. By Iohn Comyns Master of Arts of Exeter Colledge in Oxford, and minister of Gods word at Crediton in Devon.</title>
+                  <author>Comyns, John, b. 1587 or 8.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Stansby,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1617.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177891:1"/>
+            <pb facs="tcp:177891:1"/>
+            <p>THE THANKEFVLL SAMARITANE.</p>
+            <p>In a Sermon at S. PETERS in EXE<g ref="char:EOLhyphen"/>TER, the ſixth of AVGVST, <hi>Anno</hi> 1617. <hi>Being the day of the deliuerance of that</hi> Citie from the Rebels, in the dayes of King EDWARD the Sixth. <hi>At which time the Aſsiſes was alſo there holden.</hi>
+            </p>
+            <p>By IOHN COMYNS Maſter of Arts of EXE<g ref="char:EOLhyphen"/>TER Colledge in OXFORD, and Miniſter of GODS Word at CREDITON in <hi>DEVON.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>1. THESS. 5.18.</hi>
+               </bibl>
+               <p>In all things giue thankes, for this is the will of God in Christ Ieſus concerning you.</p>
+            </q>
+            <p>LONDON Printed by <hi>William Stansby.</hi> 1617.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177891:2"/>
+            <pb facs="tcp:177891:2"/>
+            <head>TO THE RIGHT WORSHIPFVLL MASTER <hi>IOHN SHEERE MAJOR</hi> of the Citie of EXETER, I. C. wiſheth the felicitie of both Worlds: Grace in this life, and glorie in the next.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Here preſent vnto your view, what was first meditated by your appoint<g ref="char:EOLhyphen"/>ment: it had neuer beene penned but for you, and therefore it doth of right appertayne vnto you. I confeſſe that at the time of the deliuerie hereof, the weake<g ref="char:EOLhyphen"/>neſſe of my memorie was ſuch as neuer before I had experience of in a Pulpit, by reaſon whereof I o<g ref="char:EOLhyphen"/>uer-ſlipped many things. And that was one ſpeciall motiue that made me the more willing to commit it to the Preſſe, that what was purpoſed and pen<g ref="char:EOLhyphen"/>ned to be preached, but through debilitie of memo<g ref="char:EOLhyphen"/>rie was not vttered with the mouth, and there<g ref="char:EOLhyphen"/>fore could not be heard with the eare, might yet at length be ſeene with the eye. If this poore labour
+<pb facs="tcp:177891:3"/>of mine ſhall finde entertaynement with you, as a teſtimonie of my thankefulneſſe for your vndeſer<g ref="char:EOLhyphen"/>ued kindneſſe towards me, and of that reſpectiue loue and louing reſpect I beare you: and if it may be a meanes of the leaſt good vnto any Chriſtian ſoule into whoſe hands it ſhal come, I haue enough. And thus I commend you to God, beſeeching him to keepe you by his power through faith vnto ſaluation; and will for euer reſt</p>
+            <closer>
+               <signed>Yours in all Chriſtian dutie, IOHN COMYNS.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:177891:3"/>
+            <head>THE THANKEFVLL SAMARITANE.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>LVKE 17.15, 16, 17, 18.</hi>
+                  </bibl>
+                  <p n="15">15. And one of them, when he ſaw that he was healed, tur<g ref="char:EOLhyphen"/>ned backe, and with a loud voice praiſed God,</p>
+                  <p n="16">16. And fell downe on his face at his feete, and gaue him thankes, and he was a Samaritane.</p>
+                  <p n="17">17. And Ieſus anſwered and ſaid, Are there not ten clean<g ref="char:EOLhyphen"/>ſed? but where are the nine?</p>
+                  <p n="18">18. There are none found that returned to giue God praiſe, ſaue this Stranger.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>Hen Satan that old Serpent had ſtung our firſt Parents, and in them had poyſoned all their poſteritie; ſo that mankinde had re<g ref="char:EOLhyphen"/>ceiued ſuch a deepe and deſperate wound, as that it paſſed the skill and power of all the Angels of heauen, and all the Crea<g ref="char:EOLhyphen"/>tures on earth to heale the ſame: it pleaſed the great
+<note n="a" place="margin">
+                  <hi>Mat.</hi> 9.12.</note> Phy<g ref="char:EOLhyphen"/>ſicion of the world, to come downe (vnſent for by woun<g ref="char:EOLhyphen"/>ded man) from the height of heauen to the earth below, to cure this (otherwiſe) incurable ſpirituall ſore of the Sons of men: that as they who were bitten with fierie Serpents in the dayes of <hi>Moſes,</hi> were preſerued aliue by looking vp<g ref="char:EOLhyphen"/>on that fierie brazen Serpent,
+<note place="margin">
+                  <hi>Num.</hi> 21.8, 9.</note> which <hi>Moſes</hi> made and ſet vpon a pole by the commandement of God, ſo all of thoſe that had a ſpiritual eye of faith to looke vpon this true bra<g ref="char:EOLhyphen"/>zen Serpent (who was lifted vp, not only on the Croſſe,
+<note place="margin">
+                  <hi>Iohn</hi> 3.14.</note> but alſo by the preaching of the Goſpel) might not periſh, but haue life euerlaſting. And during the time of his con<g ref="char:EOLhyphen"/>tinuance here on earth, for the healing of mankindes grie<g ref="char:EOLhyphen"/>uous
+<pb facs="tcp:177891:4"/>wound, he wrought alſo many miraculous cures on them that were diſeaſed with bodily infirmities: he opened the eyes of the blinde, ſo that they were able to ſee; and the eares of the deafe, ſo that they were able to heare: he loo<g ref="char:EOLhyphen"/>ſed the ſtrings of the tongues of the dumbe, ſo that they were able to ſpeake; and ſtrengthened the feete and ancle bones of the lame, ſo that they were able to walke: he re<g ref="char:EOLhyphen"/>buked the feauers, and they left thoſe who were ſicke of them; and healed the bloudie iſſue, whereof the woman could not be made whole,
+<note place="margin">
+                  <hi>Marke</hi> 5.26.</note> but (as one Euangeliſt hath ad<g ref="char:EOLhyphen"/>ded) became <hi>much worſe,</hi> though ſhee <hi>had ſuffered many things of many Phyſicions, and had ſpent all that</hi> ſhee had: fi<g ref="char:EOLhyphen"/>nally, he cleanſed the Lepers, as here in the Storie whence the Text is taken.</p>
+            <p>Now, as the earthly Phyſicion muſt haue his fee when he hath finiſhed his cure; ſo is there a fee due vnto, and expe<g ref="char:EOLhyphen"/>cted of this heauenly Phyſicion. Doe not thinke that ſiluer and gold, or any worldly pelfe is the fee which he will be beſt pleaſed withall: No, no; its a matter of leſſe coſt to thee,
+<note place="margin">Thankfulneſſe the heauenly Phyſicions fee.</note> yet of more acceptance with him: hee lookes to haue thankes for his paines, that is his fee; yet hath he cured ma<g ref="char:EOLhyphen"/>ny that haue not paid him: here were ten Lepers cleanſed, and but <hi>one of them turned backe, and praiſed God, and gaue him thankes.</hi> And therefore might hee iuſtly complaine of the deteſtable ingratitude of the other nine, that hauing wrought on them ſo great a cure, yet was denyed by them ſo ſmall a fee.</p>
+            <p>In this portion of Scripture, I conſi<g ref="char:EOLhyphen"/>der theſe two gene<g ref="char:EOLhyphen"/>rall parts, <hi>viz.</hi>
+               <list>
+                  <item>1 The euent of the miraculous healing of thoſe Lepers, <hi>viz.</hi>
+                     <list>
+                        <item>1 The thankfulneſſe of <hi>one.</hi>
+                        </item>
+                        <item>2 The ingratitude of <hi>nine.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>2 The euent of that euent, <hi>viz.</hi>
+                     <list>
+                        <item>1 Chriſts complaint of the great in<g ref="char:EOLhyphen"/>gratitude of <hi>nine.</hi>
+                        </item>
+                        <item>2 Chriſts approba<g ref="char:EOLhyphen"/>tion of the thank<g ref="char:EOLhyphen"/>fulneſſe of <hi>one.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>And one of them, &amp;c.</hi> What this one thankefull Samaritane,
+<pb facs="tcp:177891:4"/>and the other nine vnthankfull Iewes, were bodily, that are we al ſpiritually, to wit, infected with the leproſie of ſinne: its a diſeaſe hereditarie, wherwith we are all poſſeſſed euen from our conception and birth.
+<note place="margin">
+                  <hi>Pſal.</hi> 51.5.</note> He was a Saint that confeſ<g ref="char:EOLhyphen"/>ſed himſelfe to be conceiued and borne a ſinner: and (if we will beleeue S.
+<note place="margin">
+                  <hi>Suſcepit Dauid perſonam gene<g ref="char:EOLhyphen"/>ris humani,</hi> Aug. in Loc.</note> 
+               <hi>Auſtine</hi>) he did in that confeſſion take vpon himſelfe the perſon of all mankinde: ſo that all that euer deſcended from <hi>Adam,</hi> by the ordinarie courſe of naturall generation, are infected with an in-bred ſpirituall leproſie as ſoone as euer they are conceiued in the wombe: and it may truely be ſaid of them all, that they were ouer-ſpred with the darkneſſe of ſinne, euen while their Mother kept them warme in her wombe, before they came forth to ſee the light of the world; and were dead in ſinne and wicked<g ref="char:EOLhyphen"/>neſſe, before euer they drew the breath of life in the world: and that they were no ſooner naturally conceiued men, but they were alſo conceiued ſpiritually leprous men: and that they receiued life and ſinne in one moment, the firſt from <hi>God</hi> their iuſt Creator, the other from <hi>Adam</hi> their ſin<g ref="char:EOLhyphen"/>full Progenitor. The Apoſtle doth plainly auouch ſo much, when as he ſaith, that in <hi>Adam all haue ſinned:</hi> How?
+<note place="margin">
+                  <hi>Rom.</hi> 5.12, 16, 19</note> but by drawing from him guiltineſſe of nature, and corruption of nature. Firſt, guiltineſſe, becauſe all ſtand charged with <hi>Adams</hi> diſobedience in the firſt moment of their concepti<g ref="char:EOLhyphen"/>on, as if it had beene their owne; that being iuſtly laid vpon the poſteritie, which he that was the common head of them all did commit, or which they committed in him, being o<g ref="char:EOLhyphen"/>riginally in his loynes: for as the Author to the Hebrewes ſaith, that <hi>Leui paid tithes in Abraham,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 7.9, 10.</note> 
+               <hi>becauſe he was yet in the loynes of his Father, when Melchiſedec met him;</hi> euen ſo the guilt of <hi>Adams</hi> diſobedience is made his childrens, that then were in his loynes, and thence proceeded by ordinary generation: and by reaſon of this guiltineſſe they are all lyable to temporall and eternall death, according to the
+<note n="a" place="margin">
+                  <hi>Gen.</hi> 2.17.</note> threatning of God, and by nature the <hi>children of wrath,</hi> according to the
+<note n="b" place="margin">
+                  <hi>Epheſ.</hi> 2.3.</note> ſaying of the Apoſtle, and damned be<g ref="char:EOLhyphen"/>fore they be borne, according to the ſpeech of an ancient Diuine. Neither doth the off-ſpring of <hi>Adam</hi> ſtand charged
+<pb facs="tcp:177891:5" rendition="simple:additions"/>only with the guiltineſſe of his diſobedience, but there is alſo ſecondly, corruption deriued vnto them; and that not by example or imitation only (as the Pelagians erroniouſ<g ref="char:EOLhyphen"/>ly maintayned) but by generation &amp; propagation; where<g ref="char:EOLhyphen"/>by their whole nature, ſoule &amp; body, is altogether defiled, and diſpoſed only to euill, not to any thing which is good. This in-bred leproſie of originall contagion,
+<note place="margin">Why the ſinne of nature is termed Origi<g ref="char:EOLhyphen"/>nall.</note> breakes forth into a running leproſie of actuall tranſgreſſion in the chil<g ref="char:EOLhyphen"/>dren of <hi>Adam:</hi> for its termed by the name of <hi>originall ſinne,</hi> not only becauſe it is <hi>ab origine,</hi> euer ſince the fall of <hi>Adam:</hi> nor only becauſe it is <hi>cum origine,</hi> bred in euery man in the wombe, and brought with him into the world: but alſo be<g ref="char:EOLhyphen"/>cauſe it is <hi>origo,</hi> the bitter roote of all the accurſed fruits, the poyſoned fountayne of all the filthy and noyſome ſtreames of actuall ſinnes. Thus are we all Lepers, and vn<g ref="char:EOLhyphen"/>leſſe we be cleanſed, ſhall for euer be excluded out of the heauenly Ieruſalem (into
+<note n="a" place="margin">
+                  <hi>Reuel.</hi> 21.27.</note> which <hi>no vncleane thing ſhall e<g ref="char:EOLhyphen"/>uer enter</hi>) &amp; eternally ſeparated from the preſence of God, and ſocietie of glorious Angels and bleſſed Saints, as the Lepers in the time of the Law muſt dwell alone,
+<note place="margin">See <hi>Leuit.</hi> 13.</note> and not be admitted into the companie of thoſe that were cleane.</p>
+            <p>Wil you know then how and by whom you may be made cleane againe, and ſo eſcape that moſt fearefull and ſin all excluſion and ſeparation?
+<note place="margin">Chriſt alone cleanſeth the ſpirituall le<g ref="char:EOLhyphen"/>proſie.</note> Surely, he which healed this <hi>One</hi> ſpoken of in the Text, together with his <hi>nine</hi> companions, and none but he, is able to cleanſe vs: he alone is the Phyſi<g ref="char:EOLhyphen"/>cion, and his bloud only is the medicine that can cure our ſick, and poyſoned, and wounded ſoules, although there be <hi>nothing in vs but wounds,</hi>
+               <note place="margin">See <hi>Eſay</hi> 1.6, 18</note> 
+               <hi>and ſwelling, and ſores full of corrup<g ref="char:EOLhyphen"/>tion, from the ſole of the foot, vnto the head;</hi> and though we be dyed with a crimſon and skarlet leproſie of ſinne; yet being waſhed by him,
+<note place="margin">
+                  <hi>Iohn</hi> 13.10. <hi>Pſal.</hi> 51.7.</note> we ſhall be <hi>cleane euery whit,</hi> and <hi>be made as white as wooll,</hi> yea, <hi>whiter then the ſnow in Salmon.</hi> The Ce<g ref="char:EOLhyphen"/>remoniall cleanſing of the Lepers in the Law, was a moſt excellent and liuely repreſentation of this purging of our ſpirituall vncleaneneſſe by Chriſt, who was the
+<note n="b" place="margin">
+                  <hi>Col.</hi> 2.12.</note> body, the ſubſtance, and the truth of all Legall ſhaddowes and ſacri<g ref="char:EOLhyphen"/>fices whatſoeuer. The Ceremoniall cleanſing was on this
+<pb facs="tcp:177891:5"/>manner: the leprous perſon muſt be ſprinkled with the bloud of a
+<note n="*" place="margin">
+                  <hi>Leuit.</hi> 14.</note> 
+               <hi>ſlaine Sparrow; wherein a liue Sparrow had been dipped.</hi> Now, what elſe was ſignified by that bloud, but the bloud of Chriſt? What elſe repreſented by the <hi>ſlaine Sparrow,</hi> but the manhood of Chriſt which was ſlaine and offered a ſacrifice for ſin? What elſe ſhaddowed by the <hi>liue Sparrow dipped in the bloud,</hi> but the Godhead of Chriſt which could not be ſlaine? yet being perſo<g ref="char:EOLhyphen"/>nally vnited and conioyned to the manhood, was (as it were) dipped in the bloud thereof, &amp; ſo gaue vertue vnto that bloud to purge ſinne, ſith that by reaſon of this vnion it became ac<g ref="char:EOLhyphen"/>counted (as the
+<note n="a" place="margin">
+                  <hi>Acts</hi> 20.28.</note> Apoſtle cals it) <hi>the bloud of God,</hi> becauſe it was indeed <hi>the</hi>
+               <note n="b" place="margin">1. <hi>Iohn</hi> 1.7.</note> 
+               <hi>bloud of Ieſus Chriſt the Sonne of God, which cleanſeth vs</hi> from all ſinne. So is Chriſt (in an Allegorie) the good Sama<g ref="char:EOLhyphen"/>ritane, who voluntarily <hi>iourneyed</hi> from heauen to earth,
+<note place="margin">Reade <hi>Luke</hi> 10.30. <hi>&amp;c.</hi>
+               </note> to cure vs poore, wounded, &amp; robbed ſoules, from whom the ſpirituall Theeues had taken away that <hi>rayment</hi> of righteouſneſſe and holineſſe, wherewith Almightie God in the creation adorned vs: <hi>he ſaw</hi> vs with a pittifull eye of tender compaſſion, he <hi>came</hi> vnto vs by his Incarnation, he <hi>put wine and oyle into our wounds</hi> by a moſt gracious infuſion, he <hi>ſet vs on his owne beaſt,</hi> and bare vs on his owne backe by his moſt bitter paſsion, he <hi>brought vs to the common Inne</hi> of the Church by effectuall vocation, and he <hi>departing</hi> out of the world by his glorious Aſcenſion, commit<g ref="char:EOLhyphen"/>ted vs to the Miniſters of the Word with a ſolemne iniunction, to <hi>take care of vs,</hi> and <hi>tooke out his two pence,</hi> his two Teſtaments, his two Sacraments, his two great Commandements, his Word and his Sacraments, which are the ordinarie meanes vnto ſal<g ref="char:EOLhyphen"/>uation: and finally he promiſed to recompence the faithfull and carefull Stewards of his houſe <hi>at his comming againe,</hi> with a large remuneration. He is the
+<note n="c" place="margin">
+                  <hi>Reuel.</hi> 13.8.</note> 
+               <hi>Lambe ſlaine from the foundation of the world;</hi>
+               <note n="d" place="margin">
+                  <hi>Iohn</hi> 1.29.</note> 
+               <hi>The Lambe of God which taketh away the ſinnes of the world;</hi>
+               <note n="e" place="margin">1. <hi>Pet.</hi> 1.19.</note> 
+               <hi>The Lambe without ſpot and without blemiſh, by whoſe precious bloud we are redeemed, and</hi>
+               <note n="f" place="margin">
+                  <hi>Heb.</hi> 12.24.</note> 
+               <hi>whoſe bloud ſpeaketh better things then the bloud of Abel.</hi> In a word, as the Lepers here were healed by his power, ſo can our ſpirituall leproſie be cleanſed only by his bloud. O then the vnſpeakeable greatneſſe of the admirable loue of a moſt mercifull Sauiour and a moſt compaſ<g ref="char:EOLhyphen"/>ſionate Phyſicion, who willingly was content (when there
+<pb facs="tcp:177891:6"/>was no other remedie left) to be wounded himſelfe that we by his
+<note n="a" place="margin">
+                  <hi>Eſay</hi> 53.5. 1. <hi>Pet.</hi> 2.24.</note> 
+               <hi>ſtripes</hi> &amp; wounds might be <hi>healed,</hi> to lay downe his owne life, and to vnder-goe a moſt curſed and ignominious death, that we might liue a moſt bleſſed and glorious life: to ſhed his owne heart-bloud, and to ſuffer the torments of hell, that we might be ſaued from euerlaſting deſtruction, &amp; enioy the plea<g ref="char:EOLhyphen"/>ſures of heauen. <hi>Greater loue then this hath no man</hi> (ſaith
+<note n="b" place="margin">
+                  <hi>Iohn</hi> 15.13.</note> Chriſt himſelf) <hi>that a man lay down his life for his frie<g ref="char:cmbAbbrStroke">̄</g>ds.</hi> No greater loue? Why, bleſſed Sauiour, thou thy ſelfe didſt ſhew greater loue then this, in dying for vs, not being thy friends, but thy <hi>enemies,</hi> as thy owne
+<note n="c" place="margin">See <hi>Rom.</hi> 8.10.</note> Apoſtle witneſſeth. True indeed: it is the higheſt pitch of mans loue, when one friend layeth downe his life for another;
+<note place="margin">Chriſtu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> homo verus, non homo merus.</note> but thou, ſweet <hi>Ieſus,</hi> being not a meere man, but more then a man, euen God and Man both, didſt commend and ſet forth thy loue beyond the loue that man can ſhew, in giuing thy ſelfe vnto the death for vs thy ſinfull enemies: thy loue is a tranſcendent loue, ſurpaſsing the greateſt degree of the loue of man. Shall not the conſideration of this loue (beloued Chriſti<g ref="char:EOLhyphen"/>ans) make vs to bethinke with our ſelues, and to aske with the Pſalmiſt,
+<note place="margin">
+                  <hi>Pſal.</hi> 116.</note> 
+               <hi>What reward we ſhall render,</hi> and what ſee we ſhall pay vnto him who out of his free loue vnto vs hath done and ſuffe<g ref="char:EOLhyphen"/>red ſo much for vs? Surely, hee expects at our hands the ſame fee which was paid him by one of the healed Lepers, namely, <hi>That</hi> we ſhould <hi>returne vnto him, and fall downe before him, and worſhip him, and giue him thankes.</hi> If we looke into the practice of the Saints of God, we ſhall finde that they haue euer beene carefull in the performance hereof. When S. <hi>Iohn</hi> had ſpoken of the
+<note n="d" place="margin">
+                  <hi>Reuel.</hi> 1.5, 6.</note> 
+               <hi>waſhing from ſinnes in the bloud of</hi> Chriſt, he preſently inter<g ref="char:EOLhyphen"/>poſeth a thankeſgiuing, before he had ended his record of the gracious works of Chriſt for his Church,
+<note n="e" place="margin">Perkins in locum.</note> as it were interrup<g ref="char:EOLhyphen"/>ting himſelfe, for the great deſire he had to the glorie of God: he would proceed no further till he had giuen thankes; <hi>To him</hi> (ſaith he) <hi>be glorie and dominion for euer and euer, Amen.</hi> Our ſins are a leproſie; and Chriſt is the Phyſicion; and his bloud is the phyſicke; and <hi>the waſhing</hi> of vs from ſinnes in his bloud, is the making of vs cleane againe by the merit of his ſufferings; and thankfulneſſe is the fee which with S. <hi>Iohn</hi> we muſt readily and willingly, and cheerefully giue vnto him that hath healed vs.
+<pb facs="tcp:177891:6"/>So likewiſe
+<note n="a" place="margin">1. <hi>Tim.</hi> 1.13, 14, 15, 16, 17.</note> S. <hi>Paul</hi> ſpeaking of himſelfe as of a ſpirituall Le<g ref="char:EOLhyphen"/>per, euen <hi>a blaſphemer and a perſecuter,</hi> and conſidering the ri<g ref="char:EOLhyphen"/>ches of Gods mercy <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> receiuing him into fauour and pardo<g ref="char:EOLhyphen"/>ning all his ſinnes; breakes out forthwith into thankeſgiuing, <hi>Now vnto the King eternall</hi> (ſaith he) <hi>immortall, inuiſible, the on<g ref="char:EOLhyphen"/>ly wiſe God, be honor and glorie for euer and euer, Amen.</hi> In like manner doth the
+<note n="b" place="margin">
+                  <hi>Pſal.</hi> 103.1, 2, 3, <hi>&amp;c.</hi>
+               </note> Pſalmiſt ſing, <hi>Praiſe the Lord, O my ſoule, and all that is within me praiſe his holy name. Praiſe the Lord, O my ſoule, and forget not all his benefits, which forgiueth all thy ſinnes, and healeth all thine infirmities.</hi> The practice of thoſe ſeruants of God muſt bee our patterne, by them muſt wee learne to bee thankfull vnto God, and to expreſſe our thankefulneſſe by
+<note n="c" place="margin">2. <hi>Cor.</hi> 5.15.</note> li<g ref="char:EOLhyphen"/>uing <hi>henceforth not to our ſelues, but vnto him which dyed for vs and roſe againe:</hi> and by
+<note n="d" place="margin">1. <hi>Cor.</hi> 6.19, 20</note> 
+               <hi>glorifying him in our body, and in our ſpirit,</hi> ſith that <hi>we are not our owne, but his, who bought vs with the price of his owne bloud:</hi> and by
+<note n="e" place="margin">1. <hi>Pet.</hi> 1.17, 18, 19.</note> 
+               <hi>paſſing the time of our ſoiourning here in feare, for as much as we were not redeemed with corruptible things, as ſiluer and gold, but with the precious bloud of Chriſt, as of a Lambe without blemiſh and without ſpot.</hi> Thus haue we ſeene, that we are all infected with the leproſie of ſinne, that we are cleanſed only by the bloud of Chriſt, and that wee owe him thanks for our cleanſing, and finally, that we ſhould be carefull to pay him, as did the <hi>one</hi> ſpoken of in the Text: of whom we come now more pertinently and more particularly to diſcourſe.</p>
+            <p>
+               <hi>And one of them, &amp;c.</hi>
+               <note place="margin">The number of the godly is but ſmall.</note> Wee reade in the precedent verſes of the cleanſing of ten, but we reade in the Text of the returning of <hi>one</hi> alone, to glorifie God and to <hi>giue Ieſus thankes:</hi> yet mee thinks this <hi>one</hi> may afford vnto vs two profitable obſeruations. Firſt, That few of many come to Chriſt; That the wicked doe in number exceede the good; That the Dragon hath more fol<g ref="char:EOLhyphen"/>lowers then the Lamb; The Deuill more retayners then Chriſt. Loe here among ten the Prince of this world is attended on by <hi>nine,</hi> and the <hi>Prince of peace</hi> but with <hi>one.</hi> Well therefore might our Sauiour call his ſheepe
+<note n="f" place="margin">
+                  <hi>Luke</hi> 12.32.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a little flocke:</hi> well might God by his Prophet terme thoſe whom he had re<g ref="char:EOLhyphen"/>ſerued to himſelfe, in the general corruption among the Iewes,
+<note n="g" place="margin">
+                  <hi>Eſay</hi> 1.9.</note> 
+               <hi>a ſmall remant; a</hi>
+               <note n="h" place="margin">
+                  <hi>Eſay</hi> 6.13.</note> 
+               <hi>tenth</hi> or <hi>tithing part;</hi> as here we ſee Chriſt had no more but the tenth. And well might the Church breake
+<pb facs="tcp:177891:7"/>out into a pittifull complaint of her ſmall number, and ſay,
+<note n="a" place="margin">
+                  <hi>Micah.</hi> 7.1.</note> 
+               <hi>Woe is me, for I am as when they haue gathered the ſummer fruits, as the grape-gleanings of the Vintage, there is no cluſter to eate.</hi> The
+<note n="b" place="margin">
+                  <hi>Matth.</hi> 13.3. <hi>&amp;c.</hi>
+               </note> Parable of the <hi>Sower</hi> and the <hi>Seede</hi> propounded and ex<g ref="char:EOLhyphen"/>pounded by our Sauiour, confirmeth the truth of the point ob<g ref="char:EOLhyphen"/>ſerued: for among much ſtonie and more thornie, there is but little good ground: Many heare not the Word of the King<g ref="char:EOLhyphen"/>dome, and among the Hearers there are many ſorts of bad, and but one good. Wherefore it remayneth vndoubtedly true, that
+<note n="c" place="margin">
+                  <hi>Matt.</hi> 22.14.</note> 
+               <hi>few are choſen,</hi> though <hi>many be called.</hi> I grant indeede that if we conſider the Church of Chriſt <hi>perſe,</hi>
+               <note place="margin">
+                  <hi>Eccleſia Chriſti mul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a est per ſe conſiderata, pau<g ref="char:EOLhyphen"/>ca verò collata ad ingentem im<g ref="char:EOLhyphen"/>piorum qui per<g ref="char:EOLhyphen"/>eunt multitudi<g ref="char:EOLhyphen"/>nem,</hi> Brent. in Luc. 13.</note> in it ſelfe, without re<g ref="char:EOLhyphen"/>ſpect or compariſon, its a multitude innumerable, a flocke ex<g ref="char:EOLhyphen"/>ceeding great, and they that ſhall be ſaued, are a number num<g ref="char:EOLhyphen"/>berleſſe: the Scripture ſaith ſo much, <hi>Reuel.</hi> 7.9. <hi>Matth.</hi> 8.11. <hi>Eſay</hi> 60.3, 4. <hi>&amp;c.</hi> but if we compare the Church of Chriſt with the Synagogue of Satan, the good with the bad, the Elect with the Reprobate, them that ſhall be ſaued, with thoſe that periſh; How little is Chriſts flocke? How few ſhall be ſaued? Take a familiar inſtance for the illuſtration hereof: A thouſand is in it ſelfe a good round number, but being compared with many hundreds of Millions, it ſeemes almoſt to be no number at all; ſo likewiſe, thoſe that ſhall be ſaued, are in themſelues exceeding many, but compared with the multitude of thoſe that periſh, they are indeede exceeding few. I ſhut vp the iu<g ref="char:EOLhyphen"/>ſtifying of the obſeruation with the ſpeech of our Sauiour, who was the truth it ſelfe and neuer ſpake a lye;
+<note n="d" place="margin">
+                  <hi>Mat.</hi> 7.13.14</note> 
+               <hi>Wide is the gate, and broad is the way that leadeth to deſtruction, and many there be which goe in thereat, but ſtrait is the gate, and narrow is the way which leadeth vnto life, and few there be that finde it.</hi> And ſo from the explication of the point obſerued, I deſcend to the appli<g ref="char:EOLhyphen"/>cation of it.</p>
+            <p>We ſee then how well,
+<note place="margin">Multitude no true note of the true Church.</note> how ill rather, our Aduerſaries the Papiſts, doe make Multitude a true note and marke of the true Church of Chriſt: as though that Religion muſt needs be true, which is profeſſed and embraced by the moſt. Indeede where many ioyne in the truth, there is the true Church; but not for the manies ſake, but for the truths ſake. Is it not a ſilly kinde of Popiſh reaſoning to ſay, <hi>We haue a great multitude of Biſhops,
+<pb facs="tcp:177891:7"/>and Kings, and Cardinals, and Doctors, &amp;c. on our ſide,</hi> and <hi>you Proteſtants haue but one or two Princes, &amp;c. therfore is our Church the true one, and our Religion the ſound one?</hi> for why, Pagans and Mahometans doe in number farre exceede the Chriſtians: ſhall we therefore conclude that to be the truth which is profeſſed, embraced, and followed by them? I trow not. Haue there not alwayes beene more Idolaters then orthodox Profeſſors? Did not
+<note n="a" place="margin">1. <hi>Kings</hi> 19.</note> 
+               <hi>Elijah</hi> and ſome few thouſands worſhip the Lord of Hoſts, when as the moſt part bowed the knees vnto <hi>Baal?</hi> was not
+<note n="b" place="margin">2. <hi>Pet.</hi> 2.7.</note> righteous <hi>Noe</hi> with his ſmall number ſaued, when the reſt were diſobedient and periſhed in the waters? were there not ten here cleanſed, &amp; but one that returned to giue God thanks? yet I hope a Papiſt dare not denie, that the greateſt of thoſe numbers were the worſt, and the ſmalleſt the beſt: wherefore the multitude of Profeſſors is not an argument of the truth of the Religion profeſſed.</p>
+            <p>Againe, we ſee,
+<note place="margin">The multitude not to be fol<g ref="char:EOLhyphen"/>lowed.</note> how thoſe men come within the compaſſe of a iuſt reproofe, that in matters of beliefe and practice will conforme themſelues to the greateſt part: and will defend all courſes which they affect or vnder-take by the example of a multitude. Our Fathers (ſay they) were of this Religion, they embraced ſuch and ſuch opinions: the beſt, and the wiſeſt, and the greateſt, and the richeſt men thinke thus and thus, practiſe this and that: and why ſhould not we thinke and doe ſo like<g ref="char:EOLhyphen"/>wiſe? Alas, beloued, doe not the more part walke in the broad way that leadeth to deſtruction? Are we not forbidden to fol<g ref="char:EOLhyphen"/>low a
+<note n="c" place="margin">
+                  <hi>Exod.</hi> 23.2.</note> 
+               <hi>multitude to doe euill?</hi> Is not the ſmalleſt number com<g ref="char:EOLhyphen"/>monly the beſt? if we be tranſgreſſors together with others, ſhall we not be
+<note n="d" place="margin">
+                  <hi>Pſal.</hi> 37.38.</note> 
+               <hi>deſtroyed together with them?</hi> Shal our torments be the leſſe in hell, if we goe thither with the generalitie, or our ioyes be the leſſe in heauen, if we walke thither with a few? no, no; for he deſerueth no leſſe puniſhment that killeth an inno<g ref="char:EOLhyphen"/>cent accompanyed with others, then he that doth it alone: and a man endureth no leſſe paine if he burne with many, then he ſhould with few. Wherefore it is a corrupt choiſe if wee haue followed the moſt rather then the beſt, and ioyned our ſelues to the great rather then to the good: for the moſt may beleeue a matter which hath no ſoundneſſe in it, and may follow a courſe which hath no holineſſe in it.</p>
+            <pb facs="tcp:177891:8"/>
+            <p> In a third place we ſee, what reaſon we haue to harken vnto that counſell and exhortation of our Sauiour,
+<note n="a" place="margin">
+                  <hi>Luke</hi> 13.24.</note> 
+               <hi>Striue to enter in at the ſtrait gate.</hi> In our iourney towards heauen, we muſt ob<g ref="char:EOLhyphen"/>ſerue a right contrarie courſe from that which we take in our earthly iourneyes: for in our trauailes on earth wee keepe the broad beaten way, but in trauailing to heauen we muſt walke in the narroweſt path. In our iourneyes here, it is good wiſe<g ref="char:EOLhyphen"/>dome to goe with the moſt company; but in iournying to hea<g ref="char:EOLhyphen"/>uen, it is ſafeſt and ſureſt to goe with the feweſt. Its far better to returne vnto Chriſt with <hi>one,</hi> then to goe away from him with <hi>nine.</hi> Wherefore let vs ſhake off ſecuritie and careleſneſſe, becauſe the greater part ſhall periſh: and the fewer there are that ſhall be ſaued, the more
+<note n="b" place="margin">
+                  <hi>Matt.</hi> 11.12.</note> 
+               <hi>violence let the Kingdome of hea<g ref="char:EOLhyphen"/>uen ſuffer,</hi> and the greater let the care of vs all be, that we may be ſome of them. And thus much for the firſt point.</p>
+            <p>A ſecond obſeruation which I draw from this <hi>One,</hi>
+               <note place="margin">Chriſt will bid one welcome, though hee come al alone.</note> that re<g ref="char:EOLhyphen"/>turned to giue Chriſt thankes, is this: That if but <hi>one</hi> among many ſhall come vnto Chriſt, and truly turne to him, euen that one ſhall be ſure to finde a moſt kinde and gracious welcome. Let <hi>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne</hi> cleanſed Lepers refuſe to turne backe to giue glorie vnto God, yet if the <hi>tenth</hi> ſhall come, Chriſt will entertayne him louingly. If there be but one righteous
+<note n="c" place="margin">
+                  <hi>Gen.</hi> 7.</note> 
+               <hi>Noe</hi> amongſt them of the old world: but one iuſt
+<note n="d" place="margin">
+                  <hi>Gen.</hi> 19.</note> 
+               <hi>Lot</hi> amongſt all the So<g ref="char:EOLhyphen"/>domites: but one faithfull
+<note n="e" place="margin">
+                  <hi>Ioſh</hi> 6.</note> 
+               <hi>Rahab</hi> amongſt the inhabitants of Iericho: but one good <hi>Ioſeph</hi> in Egypt: but one good
+<note n="f" place="margin">1. <hi>Kings</hi> 18.</note> 
+               <hi>O<g ref="char:EOLhyphen"/>badiah</hi> in all <hi>Ahabs</hi> Court: but one
+<note n="g" place="margin">
+                  <hi>Ibid. verſ.</hi> 22.</note> 
+               <hi>Elias</hi> a Prophet of the Lord, amongſt <hi>foure hundred and fiftie prophets of Baal:</hi> but one
+<note n="h" place="margin">1. <hi>Kings</hi> 22.</note> 
+               <hi>Michaiah</hi> amongſt <hi>foure hundred</hi> flattering prophets: but one
+<note n="i" place="margin">
+                  <hi>Iohn</hi> 7.</note> 
+               <hi>Nicodemus</hi> amongſt all them that ſate in counſell a<g ref="char:EOLhyphen"/>gainſt Chriſt: yet will God alwayes haue regard to that one; and will ſurely prouide and take care for him. There is <hi>ioy</hi> (ſaith our
+<note n="k" place="margin">
+                  <hi>Luk.</hi> 15.7.10</note> Sauiour) <hi>in the preſence of the Angels of God,</hi> euen for but <hi>one ſinner that repenteth and conuerteth.</hi>
+            </p>
+            <p>This ſecond obſeruation ſerueth for a twofold vſe:
+<note place="margin">The euill fa<g ref="char:EOLhyphen"/>ſhion of the world, muſt not keepe vs back from do<g ref="char:EOLhyphen"/>ing of good.</note> Firſt, to condemne ſuch as keepe themſelues backe from the perfor<g ref="char:EOLhyphen"/>mance of good dueties, becauſe the flat contrarie is practiſed by the moſt part of men. I could be content to beſtow my Be<g ref="char:EOLhyphen"/>nefices freely (ſaith a Patrone) but I ſee the common courſe
+<pb facs="tcp:177891:8"/>and guiſe of Patrons is to make the moſt of them, &amp; why ſhould I only put away mine for nothing? I will therefore take what is offered me by ſuch a man, and buy my ſelfe three or foure faire ſuites to braue it out with the beſt at the Aſſiſes. I could finde in my heart (ſaith a luke-warme Profeſſor) to ſanctifie the Sab<g ref="char:EOLhyphen"/>bath, to heare and repeate Sermons, to pray with my Familie, to put no money to Vſurie, to reſtore the things I haue wrong<g ref="char:EOLhyphen"/>fully gotten, to ſpeake the truth, and not to coozen my Neigh<g ref="char:EOLhyphen"/>bour, &amp;c. but I ſee the faſhion of the world is otherwiſe, and I am loth to goe alone. Alas, alas, beloued, ſhall Chriſt inuite vs ſo louingly to
+<note n="a" place="margin">
+                  <hi>Matt.</hi> 11.28</note> 
+               <hi>come vnto him,</hi> and will hee bid vs heartily welcome though we come alone, and yet ſhall we abſent our ſelues becauſe other men will not goe with vs? O let not the cuſtome of the world in practiſing wickedneſſe, detayne vs any longer from comming vnto Chriſt, and following of good<g ref="char:EOLhyphen"/>neſſe!</p>
+            <p>In a ſecond place this Doctrine ſerueth for a ſingular conſo<g ref="char:EOLhyphen"/>lation vnto the children of God, who ſometimes perhaps may be diſcouraged, becauſe they walke (as it were) in vntroden paths, and ſeeme (as
+<note n="b" place="margin">1. <hi>Kings</hi> 19.10, 14.</note> 
+               <hi>Elias</hi> thought himſelfe) to be <hi>left alone,</hi> hauing many diſſwaders and few encouragers, many labouring to pull them backward, and few prouoking conſtantly to goe forward: let them comfort themſelues with this, that they ſhal be welcomed by Chriſt, though they come all alone vnto him. Let ſuch cheere vp their drooping hearts, with that comfor<g ref="char:EOLhyphen"/>table ſpeech of our Sauiour,
+<note n="c" place="margin">
+                  <hi>Iohn</hi> 6.37.</note> 
+               <hi>Him that commeth to me, I caſt not away.</hi> Obſerue it well, that Chriſt ſaith not in the plurall num<g ref="char:EOLhyphen"/>ber, <hi>Them that come to me,</hi> as if he would accept of none but ſuch as come with companie; but in the ſingular, <hi>Him that commeth,</hi> as noting that he will welcome euen one that comes alone. Wherefore though wee ſee the moſt part of the world to goe backe from Chriſt; yet if the queſtion be put to vs as it was to the
+<note n="d" place="margin">
+                  <hi>Iohn</hi> 6.67, 68</note> twelue, <hi>Will yee alſo goe away?</hi> let vs ſay with S. <hi>Peter, Lord, to whom ſhall we goe? thou haſt the words of eternall life,</hi> therefore though all men forſake thee, yet will I neuer leaue thee. And let our reſolution be the ſame that <hi>Ioſhuaes</hi> was,
+<note n="e" place="margin">
+                  <hi>Ioſh.</hi> 24.15.</note> 
+               <hi>What gods ſoeuer other men ſerue, yet I and my houſe will ſerue the Lord.</hi> Let others follow what lewd courſes ſoeuer
+<pb facs="tcp:177891:9"/>they will, yet will I continue on in a gracious courſe, and then I ſhall be ſure of a glorious end. Finally, let vs reſolue thus with the Leper in the Text, Let my nine companions be vn<g ref="char:EOLhyphen"/>gratefull vnto him that hath healed them, yet rather then I will proue vnthankefull too, I will leaue them all, and turne backe alone to <hi>praiſe God, and giue him thankes.</hi> And thus much for the ſecond point. It followes in the Text.</p>
+            <p>
+               <hi>And he was a Samaritane.]</hi> In thoſe wordes the Euangeliſt doth
+<note n="a" place="margin">Caluin. &amp; Ianſen. in loc.</note> taxe the deteſtable vnthankfulneſſe of the reſt that were healed, by comparing one with nine, and a Samaritane with a Iew. For hereby is their horrible ingratitude aggrauated, that they being nine, and this but one; they being Iewes, and this a Samaritane; yet he alone performed the dutie which he owed for his cleanſing.</p>
+            <p>Hence I obſerue this point of Doctrine,
+<note place="margin">The Religion of the meaner aggrauates the prophane<g ref="char:EOLhyphen"/>neſſe of the greater ſort.</note> That the Religion and holineſſe of the meaner &amp; more ignorant ſort, aggrauates the prophaneneſſe and lewdneſſe of the greater and more lear<g ref="char:EOLhyphen"/>ned ſort. As here, the thankefulneſſe of one Samaritane, ſerues to make the vnthankefulneſſe of nine Iewes the greater and more odious. <hi>So ſhall the men of Niniue</hi> (as our
+<note n="b" place="margin">
+                  <hi>Matth.</hi> 12.41, 42.</note> Sauiour ſaid) and <hi>the Queen of the South riſe vp in iudgement againſt the Scribes and Phariſees, and</hi> (by their example) <hi>condemne them,</hi> becauſe they (who neuer heard of the true God) <hi>repented at the preach<g ref="char:EOLhyphen"/>ing of Ionas; and ſhee</hi> (who was not brought vp in the ſchoole of Chriſt) <hi>came from the vtmoſt parts of the earth, to heare the wiſedome of Salomon;</hi> but the Scribes and Phariſees and people of the Iewes, repented not at the preaching of Chriſt, who was <hi>greater then Ionas,</hi> and refuſed to heare him who was the chiefe Doctor, the Prince of Prophets, and <hi>greater then Salo<g ref="char:EOLhyphen"/>mon.</hi> And ſo doth the
+<note n="c" place="margin">
+                  <hi>Rom.</hi> 2.27.</note> Apoſtle ſay, that <hi>the vncircumciſion which is by nature, if it keepe the Law, ſhall iudge</hi> (that is, con<g ref="char:EOLhyphen"/>demne) thoſe which <hi>by the letter and circumciſion are tranſgreſ<g ref="char:EOLhyphen"/>ſors of the Law.</hi> I finde alſo that the Apoſtles and Saints are ſaid in
+<note n="d" place="margin">
+                  <hi>Matt.</hi> 19.28. 1. <hi>Cor.</hi> 6.2.</note> Scripture to be thoſe, that <hi>ſhall ſit vpon Thrones, iudging the twelue Tribes of Iſrael, and the</hi> whole world; not onely be<g ref="char:EOLhyphen"/>cauſe they are members of Chriſt the Iudge, nor onely becauſe they ſhall approue of the ſentence pronounced by Chriſt, and ſubſcribe to his iudgement; but alſo (as
+<note n="e" place="margin">
+                  <hi>Vide Caluin. in</hi> 1. <hi>Cor.</hi> 6.2. <hi>&amp; Bucanum Loco</hi> 38. <hi>quaeſt.</hi> 8.</note> Interpreters expound
+<pb facs="tcp:177891:9"/>it) becauſe their faith, pietie, feare of God, good conſcience, and integritie of life, ſhall take away all excuſe from the wic<g ref="char:EOLhyphen"/>ked; euen as it is
+<note n="f" place="margin">
+                  <hi>Heb.</hi> 11.7.</note> ſaid of <hi>Noe,</hi> that by his faith <hi>he condemned the world.</hi> So did the faith of the Centurion, who was a Gentile; and the beliefe and repentance of the Publicanes and <hi>Harlots,</hi> aggrauate the Infidelitie and impenitencie of the people of the Iewes; in that there was
+<note n="g" place="margin">
+                  <hi>Matth.</hi> 8.10.</note> found greater faith (euen ſo great, that Chriſt as he was man, wondered at it) in the Centurion, then in Iſrael; and becauſe the
+<note n="h" place="margin">
+                  <hi>Matth.</hi> 21.31, 32.</note> Publicanes and the Harlots <hi>beleeued Iohn,</hi> but the Prieſts and Elders, and the people of the Iewes were not moued with repentance afterward, that they might beleeue him. This point needes no further proofe nor any larger amplification.</p>
+            <p>I beſeech you now (Right Honorable, Right Worſhipfull, and all dearely beloued Chriſtians) ſuffer the wordes of exhor<g ref="char:EOLhyphen"/>tation.
+<note place="margin">They that <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e greater then others, muſt ſtriue to be better then others.</note> O let it be the care of you all to out-ſtrip others in goodneſſe, as yo ugoe beyond them in greatneſſe: to excell o<g ref="char:EOLhyphen"/>thers in grace, as you are aboue them in place: to out-runne o<g ref="char:EOLhyphen"/>thers in the conſcionable practice of religious duties, as you are farre before them in worldly dignities: and to be richer then others in good workes, as you are richer then they in the goods of the world. Giue not, O giue not Chriſt iuſt cauſe thus to vpbraid and complaine of you, <hi>The Samaritane is better then the lew, I haue not found ſo great faith in Iſrael as in a Cen<g ref="char:EOLhyphen"/>turion:</hi> that is (as I now apply it) the Magiſtrates whom I haue placed in a high ſeate, are not ſo religious as the vulgar ſort: I haue not found ſo much holineſſe, ſuch conſcionable obedience in the Knights and Gentlemen, as I haue in the pain<g ref="char:EOLhyphen"/>full Husbandmen: the poore labouring man that liues by his daily worke, he ſerueth and honoreth me, but the Knights and Gentlemen ſpend their time in Hunting &amp; Hawking, in Dice<g ref="char:EOLhyphen"/>ing and Carding, in Whoring and Carowſing, and haue caſt off the yoke of my Commandements from themſelues, and will not liue in obedience to my Law: the poore Artificer that hath nothing but his hands to helpe himſelfe, hee hath more knowledge, and walketh more vprightly before me, then doth the rich man who hath abundance of wealth, of lands, and li<g ref="char:EOLhyphen"/>uings
+<pb facs="tcp:177891:10"/>in poſſeſſion: the ignorant people who know not a letter in the Booke, are more zealous and more holy in their conuer<g ref="char:EOLhyphen"/>ſation, then the great Scholers and the famous Preachers: the Mechanicall man is a better Chriſtian then the Merchant man: the Major, the Iuſtices, and the Aldermen, &amp;c. doe not liue ſo piouſly, ſo righteouſly, ſo ſoberly, as the poore Apprentices doe: the Seruing-man doth feare and ſerue me better then his Maſter doth, and the Waiting-maide better then her Miſtris. O let not Chriſt (I ſay once againe) haue cauſe thus to ſpeake and complaine of you! Let not the poorer, the meaner, and the more vnlearned people take away heauen from you: and thoſe whom you ſcorne, to haue accounted your equalls, let it be a ſhame vnto you that they ſhould be your Superiors in the beſt things, and that you ſhould come behinde them in godlineſſe.</p>
+            <p>Yet one thing more I obſerue from this Samaritane (where<g ref="char:EOLhyphen"/>in I muſt be very briefe,
+<note place="margin">A worker of righteouſneſſe is accepted with Chriſt, of what Nation ſoeuer he be.</note> as alſo in all the reſt, becauſe the time will not giue leaue to ſpeake largely of all:) namely this, That thoſe who come to Chriſt and are workers of righteouſneſſe, ſhall be accepted with him, of what Countrie or condicion ſo<g ref="char:EOLhyphen"/>euer they be. As here wee ſee that this one which returned to glorifie God, was not reiected of Chriſt, though he were a Sa<g ref="char:EOLhyphen"/>maritane. The holy Scripture doth in ſundrie places confirme the truth of this point: for we reade that
+<note n="a" place="margin">
+                  <hi>Rom.</hi> 2.11.</note> 
+               <hi>there is no reſpect of perſons with God,</hi> and that <hi>in Chriſt Ieſus</hi>
+               <note n="b" place="margin">
+                  <hi>Gal.</hi> 3.28.</note> 
+               <hi>there is neither Iew nor Grecian, Samaritane nor Scythian; there is neither bond nor free, male nor female:</hi>
+               <note n="c" place="margin">
+                  <hi>Acts</hi> 10.35.</note> but <hi>in euery Nation he that feareth God and worketh righteouſneſſe, is accepted with him,</hi> as S. <hi>Peter</hi> tels vs; and whoſoeuer
+<note n="d" place="margin">1. <hi>Iohn</hi> 3.29.</note> 
+               <hi>doth righteouſly, is borne of him,</hi> as S. <hi>Iohn</hi> wit<g ref="char:EOLhyphen"/>neſſeth. Chriſt himſelfe hath ſpoken with his own mouth, with<g ref="char:EOLhyphen"/>out exception of Nation, without exception of Age, without exception of Sexe, without exception of Eſtate, without ex<g ref="char:EOLhyphen"/>ception of Degree, without any exception at all, that he
+<note n="e" place="margin">
+                  <hi>Iohn</hi> 6 37.</note> 
+               <hi>ca<g ref="char:EOLhyphen"/>ſteth not away any one that commeth vnto him.</hi> Let vs make vſe of this point alſo.</p>
+            <p>What a ſingular conſolation doth this Doctrine miniſter to all thoſe that are truely religious,
+<note place="margin">Comfort for poore Chri<g ref="char:EOLhyphen"/>ſtians.</note> working righteouſneſſe and worſhipping the Lord in Spirit and Truth! Suppoſe that they
+<pb facs="tcp:177891:10"/>be poore, and haue but a ſmall pittance of worldly things: ſay they be baſe, and haue no earthly dignities: admit they want that comely proportion of body which others haue, and that externall beautie to make them gracious and louely in the eyes of men: grant that they be deſpiſed and nothing eſteemed a<g ref="char:EOLhyphen"/>mong men: let them be compaſſed with miſeries on euery ſide: yet may they cheere vp their hearts, and ſay, Though my out<g ref="char:EOLhyphen"/>ward croſſes and afflictions be ſo many, and though they were a thouſand times more, yet doth God eſteeme mee neuer the leſſe, yet haue I the King of heauen for my Father, Chriſt Ieſus for my Brother, the bleſſed Angels for my Attendants, and the Kingdome of heauen for my inheritance. Let men contemne me and ſet me at nought, yet he that reiected not the Samari<g ref="char:EOLhyphen"/>tane which returned to giue him thankes, will not caſt away me which am his ſeruant.</p>
+            <p>Moreouer,
+<note place="margin">Outward re<g ref="char:EOLhyphen"/>ſpects make not men ac<g ref="char:EOLhyphen"/>ceptable to God.</note> this Doctrine ſerueth for an inſtruction or admo<g ref="char:EOLhyphen"/>nition, to the Great, Noble, Wiſe, and Wealthy ones of the world. Let not ſuch perſwade themſelues or beare themſelues in hand, that their Greatneſſe, their Riches, their Honor, their Poſſeſſions, their deepe Learning, or any worldly reſpect what<g ref="char:EOLhyphen"/>ſoeuer, can procure the fauour of God and make them accep<g ref="char:EOLhyphen"/>table to him. For vnleſſe the Honorable perſon do honor God; vnleſſe they which are termed Right Worſhipfull, bee right worſhippers of God; vnleſſe they which abound in worldly wealth, doe abound in faith, in knowledge, in loue, and in o<g ref="char:EOLhyphen"/>ther good graces; vnleſſe they
+<note n="a" place="margin">
+                  <hi>Gen.</hi> 17.1.</note> 
+               <hi>walke before God and be vpright,</hi> as <hi>Abraham</hi> was commanded to doe; vnleſſe they be workers of righteouſneſſe; and truely thankefull vnto God as was this Samaritane, ſurely, howſoeuer they be highly eſteemed among men, yet are they abominable in the ſight of God.</p>
+            <p>And thus from ſhewing you what this cleanſed perſon was, I come to ſhew you what he did; <hi>viz.</hi> Firſt, <hi>he ſaw that he was healed,</hi> that is, he conſidered with himſelfe what a great bleſ<g ref="char:EOLhyphen"/>ſing the Lord had beſtowed vpon him, in that he was cleanſed from his leproſie. Secondly, <hi>He turned backe.</hi> Thirdly, <hi>He prai<g ref="char:EOLhyphen"/>ſed God with a loud voice.</hi> Fourthly, <hi>He fell downe on his face at Ieſus feete.</hi> Fiftly, <hi>He gaue Chriſt thankes.</hi>
+            </p>
+            <pb facs="tcp:177891:11"/>
+            <p> Now the practice of this Samaritane is here recorded for our imitation,
+<note place="margin">What the Sa<g ref="char:EOLhyphen"/>maritane did, is a duetie which we ought to per<g ref="char:EOLhyphen"/>forme.</note> that wee likewiſe ſhould not ſuffer the benefits of God to flip out of our mindes, but ſhould renew the memorie of them by a ſerious conſideration and meditation of the ſame, that ſo we may be ſtirred vp to giue thanks vnto the
+<note n="a" place="margin">
+                  <hi>Iam.</hi> 1.17.</note> 
+               <hi>Father of lights, from whom euery good giuing, and euery perfect gift commeth downe,</hi> as S. <hi>Iames</hi> ſpeaketh. And ſurely, more then thanks God expecteth not for the greateſt bleſsings that euer he beſtowed: it is his command that wee ſhould
+<note n="b" place="margin">
+                  <hi>Pſal.</hi> 50.14, 15, 23.</note> 
+               <hi>call vpon him in the day of trouble,</hi> and it is his promiſe that he will deliuer vs; and it is his expectation that we ſhould offer <hi>him praiſe &amp; glorifie his name.</hi> O then how vnkind are we if we render leſſe, when as God re<g ref="char:EOLhyphen"/>quireth no more? <hi>Hezekiah</hi> was a wiſe King, yet he played but a fooliſh part, in that
+<note n="c" place="margin">2. <hi>Chro.</hi> 32.25</note> 
+               <hi>he did not render according to the reward beſtowed vpon him:</hi> and what followed vpon his vnthankfulnes? <hi>Wrath</hi> (ſaith the Text) <hi>came vpon him, and vpon Iudah and Ieruſa<g ref="char:EOLhyphen"/>lem.</hi> Beloued Chriſtians, there is no Nation or people vnder the Sun, that haue more need to be ſtirred vp to the performance of this dutie of thankfulneſſe, then the Inhabitants of this our I<g ref="char:EOLhyphen"/>land, vpon whom God hath heaped ſo many and ſo excellent bleſsings. How hath he magnified his goodneſſe towards this whole Land, in the rayſing vp, and wonderfull preſeruation of that famous Princeſſe of bleſſed memorie, Q. <hi>Elizabeth,</hi> who was an inſtrument of much good and happines vnto this King<g ref="char:EOLhyphen"/>dome?
+<note place="margin">
+                  <hi>Anno</hi> 1588.</note> Did he not make the Sea in her dayes, to fight againſt the ſuperſtitious Spaniard, ſo that winde and water ouercame that inuincible Armie, prepared for our deſtruction, and that in ſuch ſort, that the
+<note n="*" place="margin">Treat. to Mendoza.</note> Popiſh relator hereof confeſſed ingenuouſly, that God himſelfe in that ſea-fight ſhewed himſelfe a very Lu<g ref="char:EOLhyphen"/>therane, and meere Proteſtant? What miraculous deliuerances hath he wrought for our gracious Soueraigne King <hi>Iames,</hi> from the conſpiracie of <hi>Gowrie,</hi> and from that bloudie-intended Maſſacre by Gun-powder? What peace and plentie doth our Land enioy, through the bleſſing of God? Hath he not alſo be<g ref="char:EOLhyphen"/>ſtowed vpon this nation, the ineſtimable pearle of his holy and heauenly Word? Is not his glorious Goſpell truely, ſincerely, &amp; plentifully preached among vs, vnder the peaceable gouern<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:177891:11"/>of a moſt religious Prince, ſo that we may come to Church in peace, and heare in peace, (
+<note n="b" place="margin">
+                  <hi>Mat.</hi> 13.16, 17.</note> 
+               <hi>O happie eyes and eares of ours!</hi>) and returne home in peace; that we may come in our ſlippers, and ſit on our Cuſhions? Hath not God diſpelled from hence the darke miſts of Popiſh ſuperſtition, and planted true Reli<g ref="char:EOLhyphen"/>gion among vs? Moreouer, that my ſpeech may be ſomewhat framed to the time; haue not you of this Citie, taſted many of the bleſſings of God? Are you not met heere in great ſolemni<g ref="char:EOLhyphen"/>ty at this preſent, in remembrance of the deliuerance, which God wrought for your Citie, in the dayes of King <hi>Edward</hi> the ſixth, from thoſe Rebels who inuaded it, and twice burned the gates thereof, yet could not winne it, becauſe God was on the Cities ſide, againſt them who roſe vp againſt it? You can re<g ref="char:EOLhyphen"/>member the burning of your
+<note n="c" place="margin">Tiuerton &amp; Columbton.</note> neighbour-Townes, when as your Citie hath hitherto beene preſerued, and your houſes and goods haue not beene conſumed with fire; the plague hath not for theſe many yeeres, come neere your dwellings. And be<g ref="char:EOLhyphen"/>ſides the abundance of temporall bleſſings, which you enioy, God hath alſo ſtirred vp the hearts of
+<note n="d" place="margin">Doctor Bod<g ref="char:EOLhyphen"/>leigh, who was ſeconded by Maſter Mo<g ref="char:EOLhyphen"/>gridge.</note> religious men, to beſtow a perpetuall maintenance for a preaching-Miniſter amongſt you, that your ſoules may be fed with the wholeſome food of his heauenly Word. Let vs deſcend yet lower, and weigh with our ſelues, the great bleſſings that God hath beſtowed vpon vs in particular; he hath giuen vs a being, and to our being hee hath added life, which he hath denied to ſtones: to our life he hath added ſenſe, which he hath denied to plants: to our ſenſe he hath added reaſon, which he hath denied to beaſts; he hath made vs Chriſtians, not Heathens; Proteſtants, and not Pa<g ref="char:EOLhyphen"/>piſts: he hath giuen vs eyes to ſee withall, when as others are blinde; eares to heare withall, when as others are deafe; tongues to ſpeake withall, when as others are dumbe; feete to walke withall, when as others are lame; health, when as others are in ſickneſſe; wealth, when as others are in pouertie; meate to eate, and clothes to put on, when as others are pinch<g ref="char:EOLhyphen"/>ed with famine and nakedneſſe; libertie and freedome, when as others are priſoners and in bondage: he hath beſtowed gra<g ref="char:EOLhyphen"/>ces vpon vs, and the meanes of grace; hee hath giuen vs aſſu<g ref="char:EOLhyphen"/>rance
+<pb facs="tcp:177891:12"/>of our election, and of his loue: In a word, hee hath be<g ref="char:EOLhyphen"/>ſtowed vpon vs, whatſoeuer good thing wee enioy, either for ſoule or bodie; hee hath giuen vs his owne Sonne, the Foun<g ref="char:EOLhyphen"/>taine of all happineſſe. And now, what doth the Lord expect at our hands, but that conſidering how good he hath beene vn<g ref="char:EOLhyphen"/>to vs, wee ſhould turne vnto him, and with heart and voice, glorifie his holy Name, and (with the Samaritane) fall downe before him, and worſhip him, and giue him thankes? Wee are moſt accurſed creatures, if we anſwere not this expectation of God; for then as our Sauiour vpbraided the vnthankfull Ci<g ref="char:EOLhyphen"/>ties,
+<note place="margin">
+                  <hi>Mat.</hi> 11.20, 21, <hi>&amp;c.</hi>
+               </note> in which <hi>moſt of his great workes were done,</hi> and cryed, <hi>Woe vnto them</hi> and ſaid, that it ſhould be eaſier at the day of Iudge<g ref="char:EOLhyphen"/>ment, for other Cities, wherein ſuch great <hi>workes</hi> had not beene done, then for them: ſo likewiſe a woe and a curſe hangs ouer our head, if we proue vnthankfull vnto God, and it ſhall be ea<g ref="char:EOLhyphen"/>ſier at the day of Iudgement for other Lands, for other Cities, for other men and women, vpon whom God hath not beſtowed ſo many bleſſings, then for England, then for Exeter, then for vs heere preſent, who haue receiued ſo much from God, and yet will not doe ſo much as to giue him thankes for all. O let vs remember, that there are three great things, which follow one another: 1. <hi>ingentia beneficia,</hi> 2. <hi>ingentia peccata,</hi> 3. <hi>in<g ref="char:EOLhyphen"/>gentes poenae:</hi> great benefits abuſed doe occaſion great ſinnes, and great ſinnes will pull downe great and heauie iudgements and puniſhments. And thus much briefly of what the Samari<g ref="char:EOLhyphen"/>tane did. It followeth in the Text.</p>
+            <p>
+               <hi>Are there not ten cleanſed? &amp;c.]</hi> Here we haue Chriſts com<g ref="char:EOLhyphen"/>plaint of the ingratitude of Nine, and his approbation of the thankfulneſſe of One. We reade that all the ten Lepers began well, for they all beleeued, they all prayed, they all obeyed Chriſt; but their end was not anſwerable, for nine of them ac<g ref="char:EOLhyphen"/>knowledged not the benefit of God in their cleanſing, and but <hi>One</hi> only was thankefull, and continued faithfull vnto the end.</p>
+            <p>Hence we learne, That the proceedings and endings of ma<g ref="char:EOLhyphen"/>ny men are vnlike their beginnings; as here the Lepers, while they had their grieuous diſeaſe, came vnto Chriſt and prayed him to haue mercy on them, but when their turnes were ſerued,
+<pb facs="tcp:177891:12"/>they forgot and refuſed to giue him thankes that had healed them. Not vnlike many in theſe dayes, who in the time of ſick<g ref="char:EOLhyphen"/>neſſe are readie to pray vnto God, and to promiſe better obe<g ref="char:EOLhyphen"/>dience if it would pleaſe the Lord to reſtore their health a<g ref="char:EOLhyphen"/>gaine; but when God hath granted what they deſired, they forget to render (as <hi>Hezekiah</hi> alſo did) according to the bene<g ref="char:EOLhyphen"/>fits beſtowed vpon them,
+<note place="margin">2. <hi>Chron.</hi> 32.25.</note>
+               <note n="a" place="margin">2. <hi>Pet.</hi> 2.20, 21, 22.</note> 
+               <hi>Returning with the Dogge to their owne vomit,</hi> and with <hi>the Sow that was waſhed, to their wallowing in the mire,</hi> ſo that <hi>the latter end is worſe with them then the begin<g ref="char:EOLhyphen"/>ning.</hi> But ſurely, it had beene better for men neuer to haue re<g ref="char:EOLhyphen"/>ceiued, then not to haue rendred; <hi>neuer</hi> to haue knowne <hi>the way of righteouſneſſe, then after they haue knowne it, to turne from the holy Commandements of God.</hi>
+            </p>
+            <p>Wherefore (beloued Chriſtians) let vs be exhorted and ex<g ref="char:EOLhyphen"/>cited conſtantly to goe on and perſeuere vnto the end, know<g ref="char:EOLhyphen"/>ing that it is not ſufficient to begin to runne well, and to faint in the midſt of the race, to
+<note n="b" place="margin">
+                  <hi>Luke</hi> 9.62.</note> 
+               <hi>put our hand to the plough,</hi> and af<g ref="char:EOLhyphen"/>terward to <hi>looke backe,</hi> as our Sauiour ſpeaketh. It is he that endureth to the end which ſhall be ſaued, as the Samaritane here who continued thankefull, heard to his great comfort from Chriſt, that together with the healing of his body, he had alſo obtayned the cleanſing and ſaluation of his ſoule. I con<g ref="char:EOLhyphen"/>clude therefore with the exhortation of the Apoſtle,
+<note place="margin">
+                  <hi>Gal.</hi> 6.9.</note> 
+               <hi>Let vs not be wearie in well doing: for in due ſeaſon we ſhall reape, if we faint not.</hi>
+            </p>
+            <p>Bleſſed Lord, without whom we can neither begin nor con<g ref="char:EOLhyphen"/>tinue in well doing, enable vs to doe what thou haſt comman<g ref="char:EOLhyphen"/>ded, that we may be ſure to finde what thou haſt promiſed, e<g ref="char:EOLhyphen"/>uen peace of conſcience in this life, and endleſſe happineſſe in that which is to come, through Ieſus Chriſt our only Sauiour: To whom with thee, O Father, and the bleſſed Spirit, be ho<g ref="char:EOLhyphen"/>nor, and glorie, and dominion, and thankſgiuing, henceforth and for euermore, <hi>Amen.</hi>
+            </p>
+            <trailer>Laus Chriſto neſcia finis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
